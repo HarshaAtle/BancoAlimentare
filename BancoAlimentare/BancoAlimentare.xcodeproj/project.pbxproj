@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08156FBA2A27B0C000F9B944 /* mainview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08156FB92A27B0C000F9B944 /* mainview.swift */; };
 		083794842A2662A000372368 /* BancoAlimentareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 083794832A2662A000372368 /* BancoAlimentareApp.swift */; };
 		083794862A2662A000372368 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 083794852A2662A000372368 /* ContentView.swift */; };
 		083794882A2662A100372368 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 083794872A2662A100372368 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08156FB92A27B0C000F9B944 /* mainview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainview.swift; sourceTree = "<group>"; };
 		083794802A2662A000372368 /* BancoAlimentare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BancoAlimentare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		083794832A2662A000372368 /* BancoAlimentareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BancoAlimentareApp.swift; sourceTree = "<group>"; };
 		083794852A2662A000372368 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 			children = (
 				083794852A2662A000372368 /* ContentView.swift */,
 				0869BE1F2A2676D10008E025 /* InventoryView.swift */,
+				08156FB92A27B0C000F9B944 /* mainview.swift */,
 				08B842182A27985F0092A222 /* InputForm.swift */,
 			);
 			path = View;
@@ -176,6 +179,7 @@
 				08B842192A27985F0092A222 /* InputForm.swift in Sources */,
 				0869BE1A2A2674AD0008E025 /* FoodModel.swift in Sources */,
 				0869BE202A2676D10008E025 /* InventoryView.swift in Sources */,
+				08156FBA2A27B0C000F9B944 /* mainview.swift in Sources */,
 				0869BE1C2A2676790008E025 /* InventoryViewModel.swift in Sources */,
 				083794862A2662A000372368 /* ContentView.swift in Sources */,
 				083794842A2662A000372368 /* BancoAlimentareApp.swift in Sources */,
