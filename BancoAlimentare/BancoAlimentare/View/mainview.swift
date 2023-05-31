@@ -9,6 +9,7 @@ import SwiftUI
 
 struct mainview: View {
     var body: some View {
+        // top part
         HStack {
             VStack(alignment: .leading) {
                 //Good Morning
@@ -37,7 +38,7 @@ struct mainview: View {
 
                 //Popular/search
                 Button {
-                    <#code#>
+                    
                 } label: {
                     Image("setting")
                         .frame(width: 28, height: 28)
